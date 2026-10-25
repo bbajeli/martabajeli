@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-label="Segnaposto fotografia della Dott.ssa Marta Bajeli">
+<rect width="480" height="600" fill="#DCE5D5"/>
+<circle cx="240" cy="230" r="85" fill="#B9C9AC"/>
+<path d="M70 600c0-110 75-190 170-190s170 80 170 190z" fill="#B9C9AC"/>
+<text x="240" y="545" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#4A5C43">Foto da inserire</text>
+</svg>
